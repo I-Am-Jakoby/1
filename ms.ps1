@@ -1,6 +1,7 @@
 $channels = @"
 https://www.youtube.com/iamjakoby
 https://www.youtube.com/c/CosmodiumCS
+https://www.youtube.com/c/hak5
 https://www.youtube.com/c/zSecurity
 https://www.youtube.com/c/STOKfredrik
 https://www.youtube.com/c/SystemExploited/featured
